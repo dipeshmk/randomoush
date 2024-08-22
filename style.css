@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+
+#circle{
+    height: 30%;
+    width: 15%;
+    background-color: grey;
+border-radius: 50%;
+border: 2px solid red;
+margin-left: 200px;
+margin-top: 5REM;
+}
+
+
+
+
+button{
+    font-size: 1.5rem;
+    padding: 1rem 3rem;
+    margin-left: 22rem;
+    margin-top: 2rem;
+}
+
+h2{
+    font-size: 3rem;
+    text-align: center;
+    color: brown;
+}
